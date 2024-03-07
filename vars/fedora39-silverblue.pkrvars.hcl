@@ -4,7 +4,7 @@ Fedora 39 Silverblue
 
 https://silverblue.fedoraproject.org/
 
-Packer config: https://github.com/anitvam/atomic-workstation
+Packer config: https://github.com/anitvam/fedora-vagrant-boxes
 EOF
 
 os_version   = "39.1.5"
